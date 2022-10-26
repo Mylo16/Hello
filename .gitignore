@@ -1,2 +1,4 @@
 # Ignore .md files
 *.md
+# .gitignore
+node_modules/
